@@ -13,7 +13,11 @@ const arr = [1, 1, 2, 3, 5, 8];
 
 class Animal {
 
-}
+};
+
+function sum(a, b) {
+	return a + b;
+};
 
 const COLOR = '#fff';
 
