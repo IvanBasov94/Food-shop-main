@@ -18,3 +18,4 @@ class Animal {
 const COLOR = '#fff';
 
 console.log(COLOR);
+window.alert('привет')
