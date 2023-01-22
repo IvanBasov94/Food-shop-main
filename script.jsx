@@ -23,3 +23,8 @@ const COLOR = '#fff';
 
 console.log(COLOR);
 window.alert('привет')
+
+const arr2 = [1, 5, 9, 4]
+
+sort = arr2.sort((a, b) => a - b);
+console.log(sort);
