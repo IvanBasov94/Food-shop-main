@@ -25,5 +25,11 @@ const COLOR = '#fff';
 const arr2 = [1, 5, 9, 4]
 
 // sort = arr2.sort((a, b) => b - a);
-reverse = arr2.reverse();
-console.log(reverse);
+// reverse = arr2.reverse();
+// map = arr2.map((item, index) => {
+// 	return item * 2 + index
+// })
+forEach = arr2.forEach((item) => {
+	return item;
+});
+console.log(forEach);
