@@ -38,5 +38,14 @@ const arr2 = [1, 5, 9, 4]
 
 // console.log(some = arr2.some(item => item === -1));
 // console.log(reduce = arr2.reduce((total, value) => total + value))
-console.log(every = arr2.every(item => item === 2));
+// console.log(every = arr2.every(item => item === 2));
+
+const myAwesomeArray = [
+	{ id: 1, name: "john" },
+	{ id: 2, name: "Ali" },
+	{ id: 3, name: "Mass" },
+	{ id: 4, name: "Mass" },
+];
+
+console.log(filter = myAwesomeArray.filter(el => el.name === 'Mass'));
 
