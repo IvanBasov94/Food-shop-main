@@ -11,9 +11,6 @@ const helloWorld = () => {
 
 const arr = [1, 1, 2, 3, 5, 8];
 
-function sum(a, b) {
-	return a + b;
-};
 
 const COLOR = '#fff';
 
@@ -46,6 +43,8 @@ const myAwesomeArray = [
 	{ id: 3, name: "Mass" },
 	{ id: 4, name: "Mass" },
 ];
+
+const a = 1;
 
 console.log(filter = myAwesomeArray.filter(el => el.name === 'Mass'));
 
