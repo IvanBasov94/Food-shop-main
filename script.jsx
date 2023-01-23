@@ -45,6 +45,7 @@ const myAwesomeArray = [
 ];
 
 const a = 1;
+let b = 'hello';
 
 console.log(filter = myAwesomeArray.filter(el => el.name === 'Mass'));
 
