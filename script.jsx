@@ -18,6 +18,8 @@ const COLOR = '#fff';
 
 const arr2 = [1, 5, 9, 4]
 
+let t = false;
+
 // sort = arr2.sort((a, b) => b - a);
 // reverse = arr2.reverse();
 // map = arr2.map((item, index) => {
