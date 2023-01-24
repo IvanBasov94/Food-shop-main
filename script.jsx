@@ -10,6 +10,7 @@ const helloWorld = () => {
 };
 
 const arr = [1, 1, 2, 3, 5, 8];
+const arr3 = [1, 43, 4, 434]
 
 
 const COLOR = '#fff';
